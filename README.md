@@ -2,12 +2,12 @@
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
-1.start
-2.Create a ARP/RARP table containing
-3.Read the number of entries (n).
-4.Ask user to enter address.
-5.Search the table if address is found print 'found', else 'not found'
-6.Stop
+1. start
+2. Create a ARP/RARP table containing
+3. Read the number of entries (n).
+4. Ask user to enter address.
+5. Search the table if address is found print 'found', else 'not found'
+6. Stop
 
 ## Client:
 1. Start the program
